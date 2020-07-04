@@ -1,23 +1,28 @@
 {
   "files": {
     "main.css": "/tvmaze-api-project/static/css/main.724097c6.chunk.css",
-    "main.js": "/tvmaze-api-project/static/js/main.c62e9cd6.chunk.js",
-    "main.js.map": "/tvmaze-api-project/static/js/main.c62e9cd6.chunk.js.map",
+    "main.js": "/tvmaze-api-project/static/js/main.94e0a6ad.chunk.js",
+    "main.js.map": "/tvmaze-api-project/static/js/main.94e0a6ad.chunk.js.map",
     "runtime-main.js": "/tvmaze-api-project/static/js/runtime-main.87583dcb.js",
     "runtime-main.js.map": "/tvmaze-api-project/static/js/runtime-main.87583dcb.js.map",
-    "static/js/2.83e579e2.chunk.js": "/tvmaze-api-project/static/js/2.83e579e2.chunk.js",
-    "static/js/2.83e579e2.chunk.js.map": "/tvmaze-api-project/static/js/2.83e579e2.chunk.js.map",
+    "static/js/2.9b6ee644.chunk.js": "/tvmaze-api-project/static/js/2.9b6ee644.chunk.js",
+    "static/js/2.9b6ee644.chunk.js.map": "/tvmaze-api-project/static/js/2.9b6ee644.chunk.js.map",
     "index.html": "/tvmaze-api-project/index.html",
-    "precache-manifest.8dc20c98456021379bf4c108b7af7806.js": "/tvmaze-api-project/precache-manifest.8dc20c98456021379bf4c108b7af7806.js",
+    "precache-manifest.cb2b9ac42446cbf17e8dca06d1e79bbd.js": "/tvmaze-api-project/precache-manifest.cb2b9ac42446cbf17e8dca06d1e79bbd.js",
     "service-worker.js": "/tvmaze-api-project/service-worker.js",
     "static/css/main.724097c6.chunk.css.map": "/tvmaze-api-project/static/css/main.724097c6.chunk.css.map",
-    "static/js/2.83e579e2.chunk.js.LICENSE.txt": "/tvmaze-api-project/static/js/2.83e579e2.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/tvmaze-api-project/static/media/logo.5d5d9eef.svg"
+    "static/js/2.9b6ee644.chunk.js.LICENSE.txt": "/tvmaze-api-project/static/js/2.9b6ee644.chunk.js.LICENSE.txt",
+    "static/media/facebook.png": "/tvmaze-api-project/static/media/facebook.7c8d991e.png",
+    "static/media/instagram.png": "/tvmaze-api-project/static/media/instagram.298f1f44.png",
+    "static/media/license.png": "/tvmaze-api-project/static/media/license.0c811e8a.png",
+    "static/media/logo.svg": "/tvmaze-api-project/static/media/logo.5d5d9eef.svg",
+    "static/media/pinterest.png": "/tvmaze-api-project/static/media/pinterest.5fabe802.png",
+    "static/media/twitter.png": "/tvmaze-api-project/static/media/twitter.c228a51f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.87583dcb.js",
-    "static/js/2.83e579e2.chunk.js",
+    "static/js/2.9b6ee644.chunk.js",
     "static/css/main.724097c6.chunk.css",
-    "static/js/main.c62e9cd6.chunk.js"
+    "static/js/main.94e0a6ad.chunk.js"
   ]
 }
