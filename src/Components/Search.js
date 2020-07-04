@@ -26,7 +26,7 @@ export class Search extends Component {
             <div className="input-group mb-3">
             <input onChange={this.handleChange} type="text" className="form-control form-control-lg ttdo-input" placeholder="Search Shows" aria-label="Recipient's username" aria-describedby="button-addon2"/>
             <div className="input-group-append">
-            <button className="btn btn-secondary ttdo-btn btn-lg" type="submit" id="button-addon2">Submit</button>
+            <button className="btn btn-secondary ttdo-btn btn-lg" type="submit" id="button-addon2">Search</button>
             </div>
             </div>
             </div>

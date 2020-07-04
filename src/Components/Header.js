@@ -5,8 +5,8 @@ export class Header extends Component {
     render() {
         return (
             <div>
-                <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top" >
-                <a className="navbar-brand" href="#">TVMaze</a>
+                <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" >
+                <a className="navbar-brand mb-0 h1" href="#">TVMaze</a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
