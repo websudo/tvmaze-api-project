@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
@@ -46,7 +45,6 @@ class App extends React.Component {
       <div className="App">
         <Header />
         <Carousel list = {this.state.link}/>
-        {/* <Search /> */}
         <Result />
         <Trendstate />
         <Popularstate />

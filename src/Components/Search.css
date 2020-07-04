@@ -1,6 +1,12 @@
 .searchbar{
-    background-color: whitesmoke;
+    background-color: rgb(255, 86, 114);;
+    background-image: linear-gradient(to bottom right,black,rgb(255, 86, 114));
+    /* margin-top: 20px; */
     margin-top: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.searchbar button{
+    color:rgb(255, 86, 114);
 }

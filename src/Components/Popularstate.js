@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import axios from 'axios';
 import Popular from './Popular'
+import './Popular.css'
 
 
 export class Popularstate extends Component {
@@ -28,8 +29,8 @@ export class Popularstate extends Component {
     render() {
         
         return (
-            <div className="backtrend" id="popular">
-                <h1 className="trendtitle">Popular Shows</h1>
+            <div className="backtrendpop" id="popular">
+                <h1 className="trendtitlepop">Popular Shows</h1>
                 <Popular props ={this.state.link}/>
             </div>
         )

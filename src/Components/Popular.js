@@ -8,7 +8,7 @@ function Popular({props}){
     const listitem = props.map((e)=>{
         
         count = count + 1; 
-        if(e.show.image != null && count <=9){
+        if(e.show.image != null && count <=8){
         return(
 
             

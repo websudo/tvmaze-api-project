@@ -1,10 +1,10 @@
-import React, { Component } from 'react'
-
+import React, { Component } from 'react';
+import './Header.css';
 
 export class Header extends Component {
     render() {
         return (
-            <div>
+            <div className="navigation">
                 <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" >
                 <a className="navbar-brand mb-0 h1" href="#">TVMaze</a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

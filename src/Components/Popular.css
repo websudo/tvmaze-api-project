@@ -1,14 +1,14 @@
-.backtrend{
+.backtrendpop{
     /* margin-top: 20px;
     margin-bottom: 20px; */
-    background-color: Black;
+    background-color: rgb(255, 86, 114);
     padding-top: 20px;
     padding-bottom: 30px;
-    background-image: linear-gradient( black,rgb(255, 86, 114));
+    background-image: linear-gradient( rgb(255, 86, 114), black);
 }
 
 .displaytrend{
-    border: 1px white solid;
+    border: 2px white solid;
     display: inline-block;
     /* padding-left: 10px;
     padding-bottom: 10px; */
@@ -16,7 +16,8 @@
     margin-top : 10px;
 }
 
-.trendtitle{
+.trendtitlepop{
     padding-bottom: 20px;
-    color: rgb(255, 86, 114);
+    /* color: rgb(255, 86, 114); */
+    color: black;
 }
