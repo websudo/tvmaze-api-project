@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tvmaze-api-project/static/css/main.a2b72c78.chunk.css",
+    "main.css": "/tvmaze-api-project/static/css/main.443d8011.chunk.css",
     "main.js": "/tvmaze-api-project/static/js/main.847e1b05.chunk.js",
     "main.js.map": "/tvmaze-api-project/static/js/main.847e1b05.chunk.js.map",
     "runtime-main.js": "/tvmaze-api-project/static/js/runtime-main.87583dcb.js",
@@ -8,9 +8,9 @@
     "static/js/2.9b6ee644.chunk.js": "/tvmaze-api-project/static/js/2.9b6ee644.chunk.js",
     "static/js/2.9b6ee644.chunk.js.map": "/tvmaze-api-project/static/js/2.9b6ee644.chunk.js.map",
     "index.html": "/tvmaze-api-project/index.html",
-    "precache-manifest.1cf0f2e22bb85aec215d232a7eaf5b5c.js": "/tvmaze-api-project/precache-manifest.1cf0f2e22bb85aec215d232a7eaf5b5c.js",
+    "precache-manifest.7626097f5567fdad26b177407b6bc785.js": "/tvmaze-api-project/precache-manifest.7626097f5567fdad26b177407b6bc785.js",
     "service-worker.js": "/tvmaze-api-project/service-worker.js",
-    "static/css/main.a2b72c78.chunk.css.map": "/tvmaze-api-project/static/css/main.a2b72c78.chunk.css.map",
+    "static/css/main.443d8011.chunk.css.map": "/tvmaze-api-project/static/css/main.443d8011.chunk.css.map",
     "static/js/2.9b6ee644.chunk.js.LICENSE.txt": "/tvmaze-api-project/static/js/2.9b6ee644.chunk.js.LICENSE.txt",
     "static/media/facebook.png": "/tvmaze-api-project/static/media/facebook.7c8d991e.png",
     "static/media/instagram.png": "/tvmaze-api-project/static/media/instagram.298f1f44.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.87583dcb.js",
     "static/js/2.9b6ee644.chunk.js",
-    "static/css/main.a2b72c78.chunk.css",
+    "static/css/main.443d8011.chunk.css",
     "static/js/main.847e1b05.chunk.js"
   ]
 }

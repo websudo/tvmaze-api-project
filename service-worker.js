@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tvmaze-api-project/precache-manifest.1cf0f2e22bb85aec215d232a7eaf5b5c.js"
+  "/tvmaze-api-project/precache-manifest.7626097f5567fdad26b177407b6bc785.js"
 );
 
 self.addEventListener('message', (event) => {
