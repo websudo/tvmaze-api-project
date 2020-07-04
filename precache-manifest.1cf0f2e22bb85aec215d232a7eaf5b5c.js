@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e61fb616810d139f42fdfebeae526428",
+    "revision": "bf42b7fb93eb11255358d93ddb433fe9",
     "url": "/tvmaze-api-project/index.html"
   },
   {
-    "revision": "5be1e6089f4109a469bd",
-    "url": "/tvmaze-api-project/static/css/main.724097c6.chunk.css"
+    "revision": "5d165ae33cb8dfad5711",
+    "url": "/tvmaze-api-project/static/css/main.a2b72c78.chunk.css"
   },
   {
     "revision": "bac890c61562311092ef",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tvmaze-api-project/static/js/2.9b6ee644.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5be1e6089f4109a469bd",
-    "url": "/tvmaze-api-project/static/js/main.94e0a6ad.chunk.js"
+    "revision": "5d165ae33cb8dfad5711",
+    "url": "/tvmaze-api-project/static/js/main.847e1b05.chunk.js"
   },
   {
     "revision": "5e75c76c2fd67a26028f",
@@ -34,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0c811e8ae770454989b49ddc6d064843",
     "url": "/tvmaze-api-project/static/media/license.0c811e8a.png"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/tvmaze-api-project/static/media/logo.5d5d9eef.svg"
   },
   {
     "revision": "5fabe802b3c6f4b65f417c7920f01b0b",
