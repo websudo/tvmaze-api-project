@@ -1,0 +1,16 @@
+.backtrend{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+    padding-top: 20px;
+}
+
+.displaytrend{
+    display: inline-block;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.trendtitle{
+    padding-bottom: 20px;
+}

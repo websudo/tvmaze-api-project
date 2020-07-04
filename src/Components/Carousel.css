@@ -1,0 +1,21 @@
+.back{
+    background-color: grey;
+}
+
+
+/* .carousel-inner > .item {
+    height: 780px;
+} */
+
+.carousel .carousel-item {
+    height: 500px;
+  }
+  
+.carousel-item img {
+      position: absolute;
+      object-fit: cover;
+      top: 0x;
+      left: 27%;
+      min-height: 500px;
+  }
+
