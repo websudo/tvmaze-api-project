@@ -1,6 +1,6 @@
 .back{
     background-color: Black;
-    background-image: linear-gradient( rgb(255, 86, 114), black);
+    background-image: linear-gradient( black,rgb(255, 86, 114) );
 }
 
 
