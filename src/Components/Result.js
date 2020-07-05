@@ -27,6 +27,7 @@ export class Result extends Component {
             });
     }
 
+    
     render() {
         return (
             <div>

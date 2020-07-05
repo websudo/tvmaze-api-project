@@ -31,7 +31,7 @@ export class Footer extends Component {
                 </div><br></br>
                 <div className="row justify-content-center">
                 <img src={llogo} alt="..." width="20px" height="20px" />
-                <p>2020 TVMaze LLC All rights reserved.</p>
+                <p>2020 TVMania LLC All rights reserved.</p>
                 </div>
                 </div>
                 </footer>
