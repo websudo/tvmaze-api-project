@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abc2693b69651a1b233755ce53ae0d6f",
+    "revision": "0330db9fa11a6e55b8e0bb3aa8fdfdcb",
     "url": "/tvmaze-api-project/index.html"
   },
   {
-    "revision": "901995add21d4df46201",
+    "revision": "42b478263aaa151d6557",
     "url": "/tvmaze-api-project/static/css/main.e81adeda.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tvmaze-api-project/static/js/2.9b6ee644.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "901995add21d4df46201",
-    "url": "/tvmaze-api-project/static/js/main.847e1b05.chunk.js"
+    "revision": "42b478263aaa151d6557",
+    "url": "/tvmaze-api-project/static/js/main.fbc8ea44.chunk.js"
   },
   {
     "revision": "5e75c76c2fd67a26028f",
