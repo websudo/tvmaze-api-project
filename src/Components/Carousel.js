@@ -12,8 +12,8 @@ function Carousel({list}){
     let count = 0;
     const listitem = list.map((e)=>{
         
-        if(e.show.name == "Dark"){
-        
+        if(e.show.name == "Dark" && e.show.image != null){
+            console.log(e.show.image);
         return(
             <div className="carousel-item active" key={e.show.id}>
                 <img src={e.show.image.original} className="d-block w-50 mx-auto" alt="..."/>
@@ -24,6 +24,7 @@ function Carousel({list}){
         )
         }
         else{
+            if(e.show.image != null){
             return(
                 <div className="carousel-item" key={e.show.id}>
                     <img src={e.show.image.original} className="d-block w-50 mx-auto" alt="..."/>
@@ -31,7 +32,7 @@ function Carousel({list}){
                         <h3>{e.show.name}</h3>
                     </div>
                 </div>
-            )
+            )}
         }
 
     })

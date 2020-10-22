@@ -5,7 +5,7 @@ import './Resultprint.css'
 export default function Resultprint({query}) {
 
     
-
+    console.log(query)
     const listitem = query.item.map((e)=>{
 
         if(e.show.image != null){
